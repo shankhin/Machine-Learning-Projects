@@ -1,4 +1,4 @@
-This repository contains all my personal machine learning projects done both as part of my schooling and on my own. Further description of the projects can be found in the reports of the respective projects.
+This repository contains all my personal machine learning projects done both as part of my schooling for my graduate level **Intro to Machine Learning Course**.
 # Project 1 - Logistic Regression
 In this project we investigated the performance of linear classification models on two benchmark datasets, a normalised datset of possible health markers for diabetes and another normalised dataset of possible markers for a good red wine and were then tasked with classification of said data points into whether the person has diabetes and whether the red wine is good or bad. I achieved this using two alogorithms - a simple Logistic Regression model and another Logistic Regression model with an added bias and then feature selection was done to further increase the accuracy until I got my highest cross-validation accuracy of **∼70%** accuracy.
 # Project 2 - Text classsification using Sentiment Analysis 
